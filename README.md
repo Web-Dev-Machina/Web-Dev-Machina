@@ -7,7 +7,7 @@
  &nbsp;
 &nbsp;
 - 👨🏽‍💻 Actualmente estoy trabajando en proyectos MERN Stack
-- 🌱 También estoy estudiando Typescript y Next.js
+- 🌱 También estoy estudiando Typescript
 - 👯 Busco colaborar en proyectos 🤝
 - 💬 Puedes consultarme por cualquier cosa
 - ⚡️ Dato: Soy Técnico Electrónico
