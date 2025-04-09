@@ -12,7 +12,7 @@
 - 👯 Busco colaborar en proyectos 🤝
 - 💬 Puedes consultarme por cualquier duda 
 - ⚡️ Dato: Soy Técnico Electrónico
-- 📫 Email: webdevmachina@gmail.com
+- 📫 Email: caceres_mauro22789@outlook.com
 
 
 <br/>
